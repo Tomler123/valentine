@@ -1,0 +1,30 @@
+body {
+    background-image: url('hearts.jpeg');
+}
+
+.container {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10em;
+    margin-bottom: 5em;
+    max-width: 100%;
+    height: auto;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #ff0077;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 2em;
+    cursor: pointer;
+    width: 5em;
+    height: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
